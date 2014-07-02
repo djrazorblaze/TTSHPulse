@@ -1,0 +1,27 @@
+#fixedTab{
+	position: fixed; 
+	width: 100%;
+	bottom: 0px;
+	}
+	
+#fixedMenu {
+	border-style: none;
+	box-shadow: none;
+	}
+	
+#right-panel {
+	background-color: #FF9696;
+	}
+	
+#dateColor {
+	background-color: #B4B4B4;
+	}
+
+#contentAlign {
+	top: 0;
+	}
+
+#comTime {
+	text-align: right;
+	color: #B4B4B4;
+	}
